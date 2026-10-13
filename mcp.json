@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "gmail-attachments": {
+      "type": "http",
+      "url": "https://REPLACE-gmail-attachments.run.app/mcp",
+      "headers": { "Authorization": "Bearer ${GMAIL_MCP_TOKEN}" }
+    }
+  }
+}
